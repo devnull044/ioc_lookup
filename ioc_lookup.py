@@ -80,7 +80,7 @@ def check_url(ioc):
             print('Indicator not found')
             #maybe add option to upload ioc to pulsedive
     exit()
-
+#check domain
 def check_domain(ioc):
         print('it bad!')
 #detect ioc, check if hash,ip, domain, or url
